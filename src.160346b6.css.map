@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CAEA,iBAGE,kBACF,CAEA,KACE,sBAAuB,CACvB,QAAS,CACT,SACF","file":"src.160346b6.css","sourceRoot":"..","sourcesContent":["html {\n  box-sizing: border-box;\n}\n\n*,\n*:before,\n*:after {\n  box-sizing: inherit;\n}\n\nbody {\n  font-family: sans-serif;\n  margin: 0;\n  padding: 0;\n}\n"]}
